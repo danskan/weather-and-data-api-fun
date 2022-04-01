@@ -1,4 +1,4 @@
-# Python API Homework - What's the Weather Like?
+# Weather and Vacations - Fun with Data and APIs!
 
 ## Background
 
